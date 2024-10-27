@@ -1,0 +1,13 @@
+C:\Users\burak\source\repos\honaViewer\honaViewer\bin\Release\honaViewer.exe.config
+C:\Users\burak\source\repos\honaViewer\honaViewer\bin\Release\honaViewer.exe
+C:\Users\burak\source\repos\honaViewer\honaViewer\bin\Release\honaViewer.pdb
+C:\Users\burak\source\repos\honaViewer\honaViewer\bin\Release\honaViewer.xml
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.vbproj.AssemblyReference.cache
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.about.resources
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.Form1.resources
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.Resources.resources
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.vbproj.GenerateResource.cache
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.vbproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.exe
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.xml
+C:\Users\burak\source\repos\honaViewer\honaViewer\obj\Release\honaViewer.pdb
